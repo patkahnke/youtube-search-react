@@ -1,0 +1,84 @@
+.jumbotron {
+  margin-bottom: 0px;
+  color: gray;
+  text-shadow: black 0.2em 0.2em 0.2em;
+  height: 200px;
+}
+
+.video-list-items {
+  font-size: medium;
+}
+
+.thumbnail {
+  cursor: pointer;
+}
+
+.btn {
+  margin-top: 5px;
+  border-radius: 15px;
+}
+
+.logic {
+  visibility: hidden;
+  display:inline;
+}
+
+.deleteBtn {
+  margin-top: 30px;
+}
+
+span {
+  font-size: 1.5em;
+}
+
+.bad {
+  color: red;
+}
+
+.assign {
+  margin-bottom: 80px;
+}
+
+.good {
+  color: green;
+}
+
+.isEndOfList {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.topBox {
+  color: black;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding-bottom: 20px;
+  margin-top: 25px;
+  border-radius: 25px;
+  background-color: #DCDCDC;
+  margin-bottom: 40px;
+}
+
+.stats {
+  color: #555;
+  border-bottom: 1px solid #ccc;
+  border-radius: 4px;
+  padding-bottom: 20px;
+}
+
+.iFrames {
+  margin-bottom: 40px;
+  cursor: pointer;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.favButton {
+  margin-bottom: 25px;
+}
